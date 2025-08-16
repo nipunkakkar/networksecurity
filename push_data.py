@@ -21,6 +21,7 @@ class NetworkDataExtract():
     def __init__(self):
         try:
             pass
+        
         except Exception as e:
             raise NetworkSecurityException(e,sys)
         
