@@ -31,7 +31,7 @@ import dagshub
 
 os.environ["MLFLOW_TRACKING_URI"]="https://dagshub.com/mrnipunkakkar/networksecurity.mlflow"
 os.environ["MLFLOW_TRACKING_USERNAME"]="mrnipunkakkar"
-os.environ["MLFLOW_TRACKING_PASSWORD"]="516be534b48658d789bc6f9b132fc7f8da3109ee"
+os.environ["MLFLOW_TRACKING_PASSWORD"]="ADD_YOUR_DAGSHUB_API_TOKEN_HERE"
 
 
 
